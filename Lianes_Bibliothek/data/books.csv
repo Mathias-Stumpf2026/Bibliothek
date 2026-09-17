@@ -1,0 +1,11 @@
+bookID,authorID,title,genre,ISBN,pub_year,language,verlag
+1,1,Es,Horror,9783453435773,1986,Deutsch,Heyne
+2,2,Harry Potter und der Stein der Weisen,Fantasy,9783551557414,1997,Deutsch,Carlsen
+3,3,Der Hobbit,Fantasy,9783608938004,1937,Deutsch,Klett-Cotta
+4,4,1984,Dystopie,9783548234106,1949,Deutsch,Ullstein
+5,5,Stolz und Vorurteil,Roman,9783150008566,1813,Deutsch,Reclam
+6,6,Illuminati,Thriller,9783404158665,2000,Deutsch,Bastei Lübbe
+7,7,Mord im Orient-Express,Krimi,9783455650112,1934,Deutsch,Atlantik
+8,8,Dune,Science-Fiction,9783453310847,1965,Deutsch,Heyne
+9,9,Die Tribute von Panem,Dystopie,9783789132186,2008,Deutsch,Oetinger
+10,10,Die unendliche Geschichte,Fantasy,9783522202602,1979,Deutsch,Thienemann

@@ -1,0 +1,11 @@
+borrowerID,first_name,last_name,email,telephone
+1,Anna,Becker,anna.becker@example.com,0151-10000001
+2,Lukas,Wagner,lukas.wagner@example.com,0151-10000002
+3,Sarah,Hoffmann,sarah.hoffmann@example.com,0151-10000003
+4,Jonas,Keller,jonas.keller@example.com,0151-10000004
+5,Lena,Richter,lena.richter@example.com,0151-10000005
+6,Tim,Schneider,tim.schneider@example.com,0151-10000006
+7,Marie,Fischer,marie.fischer@example.com,0151-10000007
+8,Daniel,Weber,daniel.weber@example.com,0151-10000008
+9,Laura,Neumann,laura.neumann@example.com,0151-10000009
+10,Felix,Braun,felix.braun@example.com,0151-10000010
